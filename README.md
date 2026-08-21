@@ -3,7 +3,7 @@ Para testar o modelo utilizei jogos de xadrez para ensina-lo a avaliar posiçõe
 
 ## Modulos utilizados no algoritmo de aprendizado:
 - Ativadores: ReLU nas camadas ocultas e Softmax na camada final
-- Inicializador: Inicialização He/ Kaiming
+- Inicializador: Inicialização He / Kaiming
 - Função de perda: Entropia Cruzada Binária
 - Otimizador: Batch Gradient Descent com Momentum
 
