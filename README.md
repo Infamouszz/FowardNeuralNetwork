@@ -7,7 +7,7 @@ Uma rede neural treinada com milhões de posição de xadrez avaliadas pela engi
 Aprender o funcionamento computacional e matemático da rede neural feedforward do absoluto zero, desde a parte matemática e tratamento dos dados até a parte de otimização e arquitetura da rede.
 
 ## Módulos utilizados no algoritmo de aprendizado:
-- **Arquitetura**: Feed Foward Neural Network (FNN).
+- **Arquitetura**: Feed Forward Neural Network (FNN).
 - **Ativadores**: ReLU nas camadas ocultas e Softmax na camada final.
 - **Inicializador**: Inicialização dos neurônios da rede utilizando He / Kaiming Initialization.
 - **Função de perda**: Entropia Cruzada Categórica, visando uma perda alta para aprendizado de classificação por parte do modelo.
